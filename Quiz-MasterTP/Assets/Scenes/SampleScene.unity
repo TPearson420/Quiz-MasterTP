@@ -637,6 +637,16 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &567269057 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8733815211382436020, guid: 078479fdbb616a64683f16a9e1a2f0a9, type: 3}
+  m_PrefabInstance: {fileID: 249178169}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &812026565 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8733815211382436020, guid: 078479fdbb616a64683f16a9e1a2f0a9, type: 3}
+  m_PrefabInstance: {fileID: 1352576076}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &910473476
 GameObject:
   m_ObjectHideFlags: 0
@@ -889,6 +899,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   questionText: {fileID: 910473478}
   question: {fileID: 11400000, guid: 2e823ba1220835946bd12c2b2ceb57e0, type: 2}
+  answerButtons:
+  - {fileID: 1252481626}
+  - {fileID: 1934821368}
+  - {fileID: 567269057}
+  - {fileID: 812026565}
+--- !u!1 &1252481626 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8733815211382436020, guid: 078479fdbb616a64683f16a9e1a2f0a9, type: 3}
+  m_PrefabInstance: {fileID: 7746510316144759290}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1352576076
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1294,6 +1314,11 @@ MonoBehaviour:
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
+--- !u!1 &1934821368 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8733815211382436020, guid: 078479fdbb616a64683f16a9e1a2f0a9, type: 3}
+  m_PrefabInstance: {fileID: 1968994612}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1968994612
 PrefabInstance:
   m_ObjectHideFlags: 0
