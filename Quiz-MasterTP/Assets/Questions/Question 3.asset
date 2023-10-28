@@ -12,6 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88537fa4c0b4ea34a896795349766d20, type: 3}
   m_Name: Question 3
   m_EditorClassIdentifier: 
-  question: 'What constellation is always in the sky
-
-'
+  question: 'How many constellations are in the sky '
+  answers:
+  - 88
+  - 102
+  - 73
+  - 81
+  correctAnswerIndex: 0

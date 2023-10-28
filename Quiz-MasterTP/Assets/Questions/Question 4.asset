@@ -15,3 +15,9 @@ MonoBehaviour:
   question: 'How many licks does it take to get to the center of a tootsie pop
 
 '
+  answers:
+  - 256
+  - 364
+  - 212
+  - 365
+  correctAnswerIndex: 1
